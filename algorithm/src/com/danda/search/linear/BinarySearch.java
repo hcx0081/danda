@@ -1,11 +1,12 @@
-package com.danda.search;
+package com.danda.search.linear;
 
 /**
  * {@code @Description:}
  */
 public class BinarySearch {
     static int binarySearch(int[] arr, int key) {
-        int lowIndex = 0, midIndex;
+        int lowIndex = 0;
+        int midIndex;
         int highIndex = arr.length - 1;
         while (lowIndex <= highIndex) {
             midIndex = (lowIndex + highIndex) / 2;
