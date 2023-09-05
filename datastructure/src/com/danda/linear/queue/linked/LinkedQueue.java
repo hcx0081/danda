@@ -3,7 +3,7 @@ package com.danda.linear.queue.linked;
 import java.util.Iterator;
 
 /**
- * {@code @Description:} 链队列
+ * {@code @description:} 链队列
  */
 public class LinkedQueue<T> implements Iterable<T> {
     // 队头指针

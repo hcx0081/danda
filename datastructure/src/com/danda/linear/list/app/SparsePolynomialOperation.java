@@ -3,7 +3,7 @@ package com.danda.linear.list.app;
 import java.util.Iterator;
 
 /**
- * {@code @Description:} 一元稀疏多项式运算：实现两个多项式加、减、乘运算
+ * {@code @description:} 一元稀疏多项式运算：实现两个多项式加、减、乘运算
  * 稀疏多项式具有很多系数为0的项，此时如果使用顺序表存储，存储空间分配不太灵活，并且运算的空间复杂度高，所以建议使用链表存储
  * P_n(x) = p_0x^e0 + p_1x^e1 + p_2x^e2 + ... + p_nx^en
  * 线性表：P=((p_0, e1), (p_1, e2), (p_2, e3)...(p_n, en))存储每一项的系数和其指数

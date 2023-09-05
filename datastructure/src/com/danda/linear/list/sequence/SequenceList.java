@@ -3,7 +3,7 @@ package com.danda.linear.list.sequence;
 import java.util.Iterator;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class SequenceList<T> implements Iterable<T> {
     // 存储元素的数组

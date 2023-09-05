@@ -1,7 +1,7 @@
 package com.danda.nonlinear.tree;
 
 /**
- * {@code @Description:} 孩子兄弟法
+ * {@code @description:} 孩子兄弟法
  */
 public class ChildSiblingTree<T> {
     Node<T> node;

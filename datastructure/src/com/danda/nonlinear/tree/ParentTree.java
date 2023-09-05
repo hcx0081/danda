@@ -1,7 +1,7 @@
 package com.danda.nonlinear.tree;
 
 /**
- * {@code @Description:} 双亲表示法
+ * {@code @description:} 双亲表示法
  */
 public class ParentTree<T> {
     Node<T>[] nodeArr;

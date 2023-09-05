@@ -5,7 +5,7 @@ import com.danda.linear.list.sequence.SequenceList;
 import java.util.Arrays;
 
 /**
- * {@code @Description:} 一元多项式运算：实现两个多项式加、减、乘运算
+ * {@code @description:} 一元多项式运算：实现两个多项式加、减、乘运算
  * P_n(x) = p_0 + p_1x + p_2x + ... + p_nx^n
  * 线性表：P=(p_0, p_1, p_2...p_n)存储每一项的系数，每一项的指数隐含在系数p_i的序号中
  * 换句话说：顺序表存储每一项的系数，下标表示每一项的指数

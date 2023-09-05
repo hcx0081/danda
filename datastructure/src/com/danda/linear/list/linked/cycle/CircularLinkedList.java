@@ -3,7 +3,7 @@ package com.danda.linear.list.linked.cycle;
 import java.util.Iterator;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class CircularLinkedList<T> implements Iterable<T> {
     // 头指针

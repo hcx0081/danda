@@ -1,7 +1,7 @@
 package com.danda.search.linear;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class BinarySearch {
     static int binarySearch(int[] arr, int key) {

@@ -3,7 +3,7 @@ package com.danda.linear.list.linked.oneway;
 import java.util.Iterator;
 
 /**
- * {@code @Description:} 单向链表
+ * {@code @description:} 单向链表
  */
 public class OneWayLinkedList<T> implements Iterable<T> {
     // 头指针

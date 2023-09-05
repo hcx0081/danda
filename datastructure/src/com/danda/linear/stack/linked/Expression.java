@@ -1,7 +1,7 @@
 package com.danda.linear.stack.linked;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Expression {
     public static void main(String[] args) {

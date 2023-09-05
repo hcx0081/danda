@@ -1,7 +1,7 @@
 package com.danda.linear.string.algorithm;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class BF {
     public static void main(String[] args) {

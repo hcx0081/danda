@@ -3,7 +3,7 @@ package com.danda.linear.stack.sequence;
 import java.util.Iterator;
 
 /**
- * {@code @Description:} 顺序栈
+ * {@code @description:} 顺序栈
  */
 public class SequenceStack<T> implements Iterable<T> {
     // 存储元素的数组

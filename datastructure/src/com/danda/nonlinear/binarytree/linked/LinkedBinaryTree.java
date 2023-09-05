@@ -5,7 +5,7 @@ import java.util.Queue;
 import java.util.Stack;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class LinkedBinaryTree<T> {
     // 根结点

@@ -3,7 +3,7 @@ package com.danda.linear.queue.sequence;
 import java.util.Iterator;
 
 /**
- * {@code @Description:} 循环顺序队列
+ * {@code @description:} 循环顺序队列
  */
 public class CircularSequenceQueue<T> implements Iterable<T> {
     // 队头指针

@@ -1,7 +1,7 @@
 package com.danda.search.tree;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Main {
     public static void main(String[] args) {

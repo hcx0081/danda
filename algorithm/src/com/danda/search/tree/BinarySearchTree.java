@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * {@code @Description:} 二叉查找树
+ * {@code @description:} 二叉查找树
  */
 public class BinarySearchTree<T extends Comparable<T>> {
     // 根结点

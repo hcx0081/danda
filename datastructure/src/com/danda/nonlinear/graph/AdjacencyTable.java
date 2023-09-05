@@ -3,7 +3,7 @@ package com.danda.nonlinear.graph;
 import java.util.LinkedList;
 
 /**
- * {@code @Description:} 邻接表
+ * {@code @description:} 邻接表
  */
 public class AdjacencyTable {
     // 表头结点数组

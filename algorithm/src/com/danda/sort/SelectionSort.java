@@ -3,7 +3,7 @@ package com.danda.sort;
 import java.util.Arrays;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class SelectionSort {
     static int[] selectionSort(int[] arr) {

@@ -3,7 +3,7 @@ package com.danda.linear.stack.linked;
 import java.util.Iterator;
 
 /**
- * {@code @Description:} 链栈
+ * {@code @description:} 链栈
  */
 public class LinkedStack<T> implements Iterable<T> {
     // 栈顶指针

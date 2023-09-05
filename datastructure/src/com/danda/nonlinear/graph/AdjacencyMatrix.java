@@ -3,7 +3,7 @@ package com.danda.nonlinear.graph;
 import java.util.LinkedList;
 
 /**
- * {@code @Description:} 邻接矩阵
+ * {@code @description:} 邻接矩阵
  */
 public class AdjacencyMatrix {
     // 顶点表

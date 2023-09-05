@@ -3,7 +3,7 @@ package com.danda.linear.list.linked.twoway;
 import java.util.Iterator;
 
 /**
- * {@code @Description:} 双向链表
+ * {@code @description:} 双向链表
  */
 public class TwoWayLinkedList<T> implements Iterable<T> {
     // 头指针

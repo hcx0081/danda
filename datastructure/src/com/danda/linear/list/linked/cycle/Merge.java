@@ -1,7 +1,7 @@
 package com.danda.linear.list.linked.cycle;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Merge {
     static <T> CircularLinkedListTail<T> merge(CircularLinkedListTail<T> l1, CircularLinkedListTail<T> l2) {

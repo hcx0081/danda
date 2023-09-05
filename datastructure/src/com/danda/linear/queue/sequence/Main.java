@@ -1,7 +1,7 @@
 package com.danda.linear.queue.sequence;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Main {
     public static void main(String[] args) {

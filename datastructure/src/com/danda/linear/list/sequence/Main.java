@@ -3,7 +3,7 @@ package com.danda.linear.list.sequence;
 import java.util.Arrays;
 
 /**
- * {@code @Description:}
+ * {@code @description:}
  */
 public class Main {
     public static void main(String[] args) {

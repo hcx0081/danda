@@ -1,7 +1,7 @@
 package com.danda.recursion;
 
 /**
- * {@code {@code @Description:}} 计算阶乘
+ * {@code {@code @description:}} 计算阶乘
  */
 public class Factorial {
     public static void main(String[] args) {
